@@ -3,7 +3,7 @@
 </h1>
 
 ### Проекты выполнены в рамках обучения на [курсе](https://praktikum.yandex.ru/data-analyst/) `Яндекс.Практикум`.
-### Сертификат [(pdf)](https://github.com/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_20222DA00663.pdf)
+### Сертификат [(pdf)](https://github.com/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_20222DA00663.pdf)
 
 
 > *__Примечание__ — некоторые графики библиотеки `plotly` не отображаются в проектах, поэтому для удобства просмотра проектов  ссылки ведут на `nbviewer.org`.

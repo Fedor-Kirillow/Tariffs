@@ -7,7 +7,7 @@
 
 <h3>Стек проекта:</h3>
 
-Среда разработки - `Jupyter Notebook`; <br>
+Среда разработки - `Jupyter Notebook`, `Tableau`; <br>
 Язык программирования - `Python`; <br>
 Библиотеки - `Pandas`, `Seaborn`, `Matplotlib`, `Numpy`, `SciPy` `Plotly.express`. <br>
 <br>

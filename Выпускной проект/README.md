@@ -9,23 +9,26 @@
 
 Среда разработки - `Jupyter Notebook`; <br>
 Язык программирования - `Python`; <br>
-Библиотеки - `Pandas` `Seaborn` `Matplotlib` `Numpy` `SciPy` `Plotly.express`. <br>
+Библиотеки - `Pandas`, `Seaborn`, `Matplotlib`, `Numpy`, `SciPy` `Plotly.express`. <br>
 <br>
 
 > __Примечание__ — ссылка ведёт на nbviewer.org, т.к. при открытии .ipynb проекта в GitHub некоторые графики могут не отображаться.
 
-### [Посмотреть проект](https://nbviewer.org/github/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb)  <br><br>
+### [Посмотреть проект](https://nbviewer.org/github/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb) <br>
+### [Посмотреть презентацию](https://github.com/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf) <br>
+#### [Посмотреть дашборд (pdf)](https://github.com/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/Dashboard.pdf)  <br><br>
 
 <h2 align="center"> Часть 2. Исследовательский анализ данных, построение воронок действий пользователей, A/B-тестирование. </h2>
 
 <h3>Описание проекта:</h3> 
-Исследовательский анализ данных, построение воронок действий пользователей, A/B-тестирование
+Ваша задача — провести оценку результатов A/B-теста. В вашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
+Оцените корректность проведения теста и проанализируйте его результаты.
 
 <h3>Стек проекта:</h3>
 
 Среда разработки - `Jupyter Notebook`; <br>
 Язык программирования - `Python`; <br>
-Библиотеки - `Pandas` `Seaborn` `Matplotlib` `Plotly.express` `SciPy` `SciPy.stats` `math` `Numpy`. <br>
+Библиотеки - `Pandas`, `Seaborn`, `Matplotlib`, `Plotly.express`, `SciPy`, `math`, `Numpy`. <br>
 <br>
 
 > __Примечание__ — ссылка ведёт на nbviewer.org, т.к. при открытии .ipynb проекта в GitHub некоторые графики могут не отображаться.
@@ -35,20 +38,21 @@
 <h2 align="center"> Часть 3. SQL-запросы к базе данных платформы для чтения книг. </h2>
 
 <h3>Описание проекта:</h3> 
-SQL-запросы к базе данных платформы для чтения книг
+Коронавирус застал мир врасплох, изменив привычный порядок вещей. В свободное время жители городов больше не выходят на улицу, не посещают кафе и торговые центры. Зато стало больше времени для книг. Это заметили стартаперы — и бросились создавать приложения для тех, кто любит читать.
 
+Ваша компания решила быть на волне и купила крупный сервис для чтения книг по подписке. Ваша первая задача как аналитика — проанализировать базу данных.
+
+В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта.
 <h3>Стек проекта:</h3>
 
 Среда разработки - `Jupyter Notebook`; <br>
 Язык программирования - `Python`; <br>
-Библиотеки - `Pandas` `SQLAlchemy`. <br>
+Библиотеки - `Pandas`, `SQLAlchemy`. <br>
 <br>
 
 > __Примечание__ — ссылка ведёт на nbviewer.org, т.к. при открытии .ipynb проекта в GitHub некоторые графики могут не отображаться.
 
 ### [Посмотреть проект](https://nbviewer.org/github/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20SQL.ipynb)  <br>
 
-### [Посмотреть презентацию](https://github.com/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)
-<br>
 
 <h3>Статус проекта — $\textcolor{green}{\textsf{Завершён.}}$</h3>

@@ -17,4 +17,4 @@
 
 ### [Посмотреть проект](https://nbviewer.org/github/Fedor-Kirillow/Yandex_Practicum_DA_2022/blob/39c307476c512582cf9f3480075082c7acec002e/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb)  <br>
 
-<h3>Статус проекта — $\textcolor{green}{\textsf{Завершён.}}$</h3>
+Статус проекта — $\textcolor{green}{\textsf{Завершён.}}$ 
